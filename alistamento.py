@@ -1,6 +1,5 @@
 from datetime import date
 
-# Data atual
 hoje = date.today()
 print(hoje.strftime("%d/%m/%Y"))
 
