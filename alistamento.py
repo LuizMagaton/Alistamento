@@ -20,4 +20,3 @@ elif idade < 18:
     print (f"Precisara se alistar daqui à {diferenca_ano} anos {diferenca_mes} meses {diferenca_dia} dias")
 else:
     print (f"Já se alistou hà {diferenca_ano} ano {diferenca_mes} meses {diferenca_dia} dias")
-
